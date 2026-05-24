@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Behavioral Firewall</string>
+    <string name="accessibility_description">Detects opening of high-risk apps (social media, browsers) to trigger mindfulness and breathing friction overlays to curb compulsive digital behavior.</string>
+    <string name="notification_channel_name">Firewall Monitor</string>
+    <string name="notification_channel_description">Monitors digital usage and system risk levels to prevent compulsive browsing loops.</string>
+    <string name="notification_title">Behavioral Firewall is Active</string>
+    <string name="notification_text">Real-time behavior monitor is running. Stay mindful and intentional!</string>
+</resources>
